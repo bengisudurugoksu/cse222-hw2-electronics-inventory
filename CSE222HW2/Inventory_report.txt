@@ -1,0 +1,17 @@
+Electronics Shop Inventory Report
+Generated on: 2024-03-26
+-----------------------------------------------------------
+| No. | Category  | Name              | Price  | Quantity |
+-----------------------------------------------------------
+| 1  | Smartphone | İphone | $45.0 | 42  |
+| 2  | Tablet | Samsung | $125.0 | 25  |
+| 3  | Headset | JBL | $135.0 | 74  |
+-----------------------------------------------------------
+
+
+Summary:
+- Total Number Of Devices: 4
+- Total Inventory Value: $305.0
+
+
+End of Report

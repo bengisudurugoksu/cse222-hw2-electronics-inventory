@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"CSE222HW2","l":"abstractDevice"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"CSE222HW2","l":"Device"},{"p":"CSE222HW2","l":"Headset"},{"p":"CSE222HW2","l":"Inventory"},{"p":"CSE222HW2","l":"Laptop"},{"p":"CSE222HW2","l":"Main"},{"p":"CSE222HW2","l":"Smartphone"},{"p":"CSE222HW2","l":"Tablet"},{"p":"CSE222HW2","l":"TV"}]
